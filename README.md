@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @profjmarkbishop
 - 👀 I’m interested in Embodied Cognitive Science, Artificial Intelligence & NLP
-- 🌱 I’m currently learning GIT & Python for Fact360
+- 🌱 I’m currently learning GIT & working my way through "Learn Python the Hard Way" for Fact360
 - 💞️ I’m looking to collaborate on Heirarchical Clutering and Topic Analysis
 - 📫 How to reach me: mark.bishop@fact360.co
 
